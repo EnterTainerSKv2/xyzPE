@@ -1,0 +1,13 @@
+name: xyz
+main: EnterTainerSK\xyz\xyz
+version: 1.0.1
+api: [3.0.0, 4.0.0]
+
+load: POSTWORLD
+author: EnterTainerSK
+description:  XYZ plugin
+commands:
+ xyz:
+  description: Returns Player Coordinates
+  usage: /xyz 
+  permission: xyz.command.xyz
